@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Last Bard: patch notes</title>
+<style>
+:root { --bg:#0b0a14; --card:#171526; --text:#e6e8f5; --muted:#a9aecb; --gold:#ffd966; --line:#2c2a45; }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--text); font:16px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width:760px; margin:0 auto; padding:32px 16px 80px; }
+header h1 { color:var(--gold); font-size:28px; margin:0 0 4px; letter-spacing:.02em; }
+header p { color:var(--muted); margin:0 0 28px; }
+header a, footer a { color:var(--gold); }
+section { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:8px 22px 18px; margin:0 0 22px; }
+h2 { color:var(--gold); font-size:22px; margin:16px 0 4px; scroll-margin-top:16px; }
+h3 { color:var(--text); font-size:15px; text-transform:uppercase; letter-spacing:.08em; margin:20px 0 6px; border-bottom:1px solid var(--line); padding-bottom:4px; }
+p { margin:6px 0; color:var(--muted); }
+ul { margin:6px 0 6px; padding-left:20px; }
+li { margin:5px 0; }
+code { background:#0e0d1a; border:1px solid var(--line); border-radius:4px; padding:0 5px; }
+footer { color:var(--muted); font-size:14px; }
+</style></head><body><main>
+<header><h1>THE LAST BARD</h1><p>Patch notes, newest first. <a href="./">Back to the game</a></p></header>
+<section><h2 id="v0.2.1-alpha">The Last Bard: Alpha 0.2.1</h2>
+<p><em>Playing-card level-ups, a camp rebuilt as a real castle, a new HUD and death screen, and a long list of keyboard, touch and polish fixes.</em></p>
+<h3>New</h3>
+<ul>
+<li><strong>Playing-card level-ups.</strong> Each card is a little collectible: a type ribbon, TYPE and EFFECT lines, a dry one-liner on every boost, and a footer showing what it works with. The highlighted card lifts and glows; the others are tossed aside and your pick flies to its slot with a pop. A gold star marks something you have never found before.</li>
+<li><strong>Gear from chests.</strong> One find per chest. If you already wear something in that slot, the callout has an <strong>Equip</strong> button on its right; if it went on automatically it reads a greyed <strong>Equipped</strong>. Equipped gear flies up to the health and XP bars.</li>
+<li><strong>The Sanctuary is a castle.</strong> Tall crenellated walls with towers, a gatehouse with an iron portcullis and a road out through the woods, flagstone courtyards and dirt paths. The camp grows from a ruin to a restored hall as you play.</li>
+<li><strong>Station names appear as you walk up</strong>, with a golden outline round the thing you are about to use. The ruined College hall can be looked at too.</li>
+<li><strong>Fountain of Echoes</strong> (the old Altar). Its fountain art is still to come.</li>
+<li><strong>Second Take</strong>: a new, expensive Sanctuary upgrade, +1 level-up reroll per run (up to 10).</li>
+<li><strong>Action key.</strong> The Crescendo key setting is now one key for everything: Crescendo, confirming in menus, picking the highlighted card, talking and opening things.</li>
+<li><strong>Subtle notes always drift round the bard</strong> during a run, on top of the beat notes.</li>
+<li><strong>New HUD and death screen</strong>, framed bars with the text inside, counters as &quot;number + icon&quot;, a slimmer blue XP bar, a redder health bar that pulses when you are nearly dead (steady with Reduce flashing), and a cape gauge in the same colours.</li>
+<li><strong>Title screen</strong>: the song&#x27;s melody is written on a staff behind the title, your pet trots round the bard, and a Silencer sometimes flies over the moon.</li>
+<li><strong>Your pets roam the camp</strong>, and chests and power-ups have their own sounds.</li>
+</ul>
+<h3>Changes</h3>
+<ul>
+<li><strong>The camp&#x27;s plaza.</strong> The Fountain of Echoes is drawn as a real fountain in the middle of the plaza and grows as you buy Sanctuary upgrades. The Armory is now the row of armor stands (the whole row lights up as one), and the Collection is a rack that fills with the weapons and boosts you have found. The bookshelf and loose chests are gone. The bard&#x27;s tent has a second fire with a roast, stools, a drum and instruments, and after a run you wake up beside it.</li>
+<li><strong>The Fountain stands in the heart of the plaza</strong>, its light rises from its top, and the wall towers sit on stone plinths with proper shadows.</li>
+<li><strong>Camp prompts float.</strong> The black panel at the bottom is gone: the name, a one-line hint and a small &quot;[Space] Open&quot; key tag now float over the thing you are standing at (it still clicks and taps).</li>
+<li><strong>Husk badge.</strong> The first foe gets its &quot;new foe&quot; badge on the fifth kill: they were people once, before the music and the hope went. Maestra says more about it in camp.</li>
+<li>Every pop-up badge now wraps all its text, so long lines no longer run off the edge. The gear-found box lines up with the three cards. The Collector and Menagerie achievements have icons in the same style as the others.</li>
+<li><strong>Halls.</strong> The Colleges are now <em>halls</em> of the Bards College: &quot;Restore your first hall of the Bards College&quot;. Maestra&#x27;s talk is four short lines now, and she and Kage stay until they have finished speaking.</li>
+<li>Rally Horn is a gust of wind, not brass. Dabble the Duckling asks if you have any grapes. Rhythm Swarm is flagged as fast.</li>
+<li>Only the bard, Maestra Orsolya and Kage have tents in the camp (red, blue and violet). The loose armory chests are gone.</li>
+<li>The Resonant Stone stands in a clearing, and the ruined College waits for a <em>later</em> run than the Stone.</li>
+<li>Song-change badges are smaller and fit their text. The &quot;not enough Echoes&quot; note sits beside the last-run line in orange.</li>
+</ul>
+<h3>Controls and accessibility</h3>
+<ul>
+<li><strong>Tabs show two colours:</strong> the tab that is open keeps its gold border, the one under your cursor or keyboard gets a sky-blue one.</li>
+<li><strong>Menus walk the layout.</strong> Arrows and WASD move along the row or down the column, stop at the edges and no longer wrap to the tab bar. Only <strong>Up</strong> reaches the tabs; Down goes through a page&#x27;s sub-tabs first, then the page. Lists scroll all the way before leaving.</li>
+<li><strong>Esc and Settings work over the level-up cards</strong> and take you back to them.</li>
+<li><strong>Cards</strong>: Left and Right step along the three cards and stop at the ends; the number hints are subtle and hidden on touch; a mouse resting on one card no longer lights it while the keys move on.</li>
+<li><strong>Every hover icon is reachable by keyboard</strong>: the pause-menu build page, the death screen, and the Collection and Journal tiles.</li>
+<li><strong>Touch</strong>: drag anywhere in a menu to scroll, even over buttons.</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li><strong>The browser build uses much less video memory</strong> (the world&#x27;s props are packed far tighter, 70 MB less), and it picks a quality level for your device: Low, Medium or High (Settings &gt; Quality, reload after changing). Phones and older tablets load less of the world at once and show fewer foes at a time.</li>
+<li>A bard who never picks up their orbs could slow the game down over ten minutes. When too many pile up, the orbs now pool into bigger, brighter ones (up to a big white-red orb for 100 XP or more) that you still have to collect.</li>
+<li>A key press that fired the Crescendo as a level-up appeared could also pick a card. Cards now ignore input for a third of a second after they appear.</li>
+<li>The camp&#x27;s ruined towers no longer stand outside the walls, and the wall ring and towers meet cleanly.</li>
+<li>The camp&#x27;s corner and buttress towers were never drawn; they are now, and the gate towers are no longer cut off.</li>
+<li>You can no longer walk into or through the camp walls.</li>
+<li>Note trails to a find no longer draw over the cards.</li>
+<li>On a fresh save the pause menu&#x27;s Resume and Exit buttons can be reached with the keys.</li>
+<li>Stats page spacing is even; the Collection and Journal borders are complete.</li>
+<li><strong>Reduce flashing</strong> also turns off the card and equip animations; the setting now says so.</li>
+</ul>
+<h3>Notes batch (later additions)</h3>
+<ul>
+<li><strong>Mini elites</strong>: every 20 to 40 seconds a bigger, gold-ringed foe arrives with four times the health, a harder bite, four times the XP and a guaranteed chest.</li>
+<li><strong>Second Verse</strong>: a new boost, +1 projectile for every weapon that throws or looses them (up to 5). Level-up cards now say <strong>+1 PROJECTILE</strong> when the next level adds one.</li>
+<li>37 new achievements with silly titles (kills, crates, deaths, hours played, full gear sets by rarity, every pet, weapon, boost and foe) and four new Stats cards.</li>
+<li>Later in a run a strong bass drum can draw a small geometric formation of hex sigils, like the snare&#x27;s, instead of a pair of foes.</li>
+<li>Camp: nothing is selected when you arrive, and the bard&#x27;s floating notes play in camp too.</li>
+<li>Balance: slowed foes move at 62% (was 50%), Rally Horn pushes a little less and a little slower, Mending gives less.</li>
+<li>Ruins are themed per biome; houses and tents are faded with dark windows; a brown road runs from the camp gate; the Magic Harp and Resonant Stone have a ringed clearing; LEVEL UP is easier to read; the death screen lists every damage source; locked entries show a padlock.</li>
+</ul></section>
+<section><h2 id="v0.2.0-alpha">The Last Bard: Alpha 0.2.0</h2>
+<p><em>The big one: weapons that evolve, late-game bosses and waves, a lot of polish, and every menu given a fresh look.</em></p>
+<h3>New</h3>
+<ul>
+<li><strong>Evolution scene</strong>: fuse two weapons from a chest and they spin round each other, a beat of silence, then <em>pop</em>: the new weapon appears. Evolved weapons are gilded around the bard and each shows what it grew from.</li>
+<li><strong>Synergies on the cards</strong>: level-up cards now say what they work with (&quot;Boosts Bard&#x27;s Lute&quot;, &quot;Fuses with War Drum&quot;), only for things you really carry.</li>
+<li><strong>True bosses</strong> from 26:00: tougher Drum Lord, Choir and Phantom Orchestra with extra attacks.</li>
+<li><strong>The late game</strong>: from 15:00 the quiet parts hit less, formations grow (six new ones) and siege rings come faster in new shapes. From 27:00 a never-ending wave rolls in from the edges.</li>
+<li><strong>The Crescendo throws back every hostile note</strong> on the screen at the horde.</li>
+<li><strong>Chests</strong>: bigger openings for bigger chests, <strong>Space / Enter skips</strong> the opening, and once everything is maxed you can lock one endless card as the default for every chest.</li>
+<li><strong>Six upgrade slots</strong> shared by upgrades and Crescendo upgrades (they all show in the row now).</li>
+<li><strong>New upgrades</strong> in the Sanctuary: <strong>Forager</strong> and <strong>Lifebloom</strong> (more power-ups and hearts from breakables).</li>
+<li><strong>Exit to title</strong> in the pause menu. A <strong>loading screen</strong> when a run starts, so the world no longer pops in.</li>
+<li><strong>Hover cards everywhere</strong>: every gear slot and piece, and the gear you found on the death screen. <strong>WASD</strong> works on the cards, and <strong>Tab</strong> walks every page of a menu.</li>
+</ul>
+<h3>Changes</h3>
+<ul>
+<li>The Harp of Lines is now the <strong>Harp of Light</strong>: its strings land one after another, each a little dimmer, and its size is capped. Other area weapons stop growing without limit.</li>
+<li>The Lute Strum is now the <strong>Bard&#x27;s Lute</strong>; the Beginner&#x27;s Cape is now the <strong>Tattered Cloak</strong>.</li>
+<li>All XP orbs are the same size and play the same chime.</li>
+<li>Legendary gear is rarer. The last levels of each Sanctuary upgrade cost more.</li>
+<li>The Silencer gets faster every pass: running away no longer works forever.</li>
+<li>Reprieves between songs are lighter late in a run.</li>
+<li>The Pause menu, Sanctuary, Collection, Journal and Title screen have a new look (the Death screen and HUD come next).</li>
+</ul>
+<h3>World</h3>
+<ul>
+<li>Trees, stumps and rocks stay off paths. Signposts now stand only beside paths, most at forks and crossroads.</li>
+<li>Crates and pots are mostly by villages and camps; the wilds hold more of each biome&#x27;s special breakables (beehives and friends).</li>
+<li>New cut tree stumps in the meadow and forest; hay bales are redrawn. The old decorative snowmen are gone (the breakable ones stay).</li>
+<li>The Magic Harp can turn up again if you walked away from it.</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li>Husks no longer pile up on castle ruins and walls: they walk round them.</li>
+<li>The title music unlocks on your first click in the browser, with a hint.</li>
+<li>The web build uses much less memory (the iPhone tab crash), and a note on the title screen tells us if a session ended unexpectedly.</li>
+<li>On the web, Esc closes menus while fullscreen instead of leaving fullscreen (Chrome and friends).</li>
+<li>&quot;Your Music&quot; is hidden on the title screen unless developer controls are on (press <strong>`</strong>).</li>
+<li>Fixed an error when the endless cards were offered, and a missing popup when a Crescendo Score was found in a chest.</li>
+<li>The title music and the Magic Harp&#x27;s other songs (tracks 2 to 4) were missing from the web build and now play there. The Settings page no longer lets the mouse wheel turn the volume sliders, and its scroll bar stays put.</li>
+</ul></section>
+<section><h2 id="v0.1.1-alpha">The Last Bard: Alpha 0.1.1</h2>
+<p><em>A small follow-up to 0.1.0: keyboard polish and menu fixes.</em></p>
+<h3>Quality of life</h3>
+<ul>
+<li><strong>Arrow keys everywhere</strong>: the death screen, the loadout screen and the pause menu&#x27;s Run / Settings / Dev tabs can all be reached and walked with the arrow keys.</li>
+<li>On the loadout screen, left and right now walk the College / Companion / Pet / Crescendo row instead of jumping to BACK.</li>
+<li>The lute&#x27;s &quot;Crescendo ready&quot; glow is now a small soft pulse in the colour of your equipped Crescendo&#x27;s rarity.</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li>Pause menu: &quot;Unlocked this run&quot; is now a 3-wide grid that scrolls instead of running off the right edge, and weapons and upgrades sit in 4-wide grids.</li>
+<li>All unlock pop-ups (pets included) are now the same size.</li>
+<li>Pause menu tabs no longer trap the arrow keys.</li>
+</ul></section>
+<section><h2 id="v0.1.0-alpha">The Last Bard: Alpha 0.1.0</h2>
+<p><em>The first numbered build. Everything below landed in the last 24 hours.</em></p>
+<h3>New: The Sanctuary</h3>
+<ul>
+<li>The camp is now a walled castle. Walk out through the <strong>gate</strong> to start a run, no button needed.</li>
+<li>Your first run skips the camp; it opens after your first death.</li>
+<li><strong>The Journal</strong> (one big book): Monsters, People, Bards College, Achievements and Stats in one place.</li>
+<li><strong>The Collection</strong> cabinet: a new Unlocks page for every weapon, fusion and boost (hidden as ??? until found).</li>
+<li>The <strong>Bards College</strong> castle rebuilds, tower by tower, as you reopen Colleges. Walk to a tower and press E to equip it.</li>
+<li><strong>The Altar of Echoes</strong> lights up when you can afford an upgrade.</li>
+<li>Your tent and the armory fill with chests, stands and pedestals as you collect gear.</li>
+</ul>
+<h3>New: Title screen and music</h3>
+<ul>
+<li>A full title screen with its own theme, an animated castle scene and a menu.</li>
+<li><strong>3 new soundtrack tracks</strong> (Ember Road, Lonely Espresso, Midnight Gallop) alongside the original.</li>
+<li><strong>The Magic Harp</strong>: a lost artifact hidden in the wild. Find it, then pick your song in camp.</li>
+<li><em>Your Music (experimental)</em>: play one of your own songs instead.</li>
+</ul>
+<h3>New: Loadout and builds</h3>
+<ul>
+<li>Equipment screen with a paper doll and animated bard preview, icon grids and hover details.</li>
+<li>Swap gear mid-run from the pause menu, but only with pieces you found that run.</li>
+<li>Pause menu shows your <strong>current build</strong>: weapons, upgrades and the synergy lines between them.</li>
+<li>Weapons now hang around the bard and animate when they attack. The lute glows when the Crescendo is ready.</li>
+<li>Hover the Companion, Pet and Crescendo slots to see their stats for the run.</li>
+</ul>
+<h3>Mobile and touch</h3>
+<ul>
+<li>New touch layout: your gear and the Crescendo button sit at the <strong>top</strong> of the screen, so <strong>either thumb</strong> can steer with the on-screen stick.</li>
+<li>Big tap targets everywhere: PLAY, Reroll, Revive and Return to camp.</li>
+<li>Collection: <strong>tap once to read, tap again to wear</strong>. The Loadout works the same way.</li>
+<li>Every menu and the death screen are usable by touch as well as keyboard and mouse.</li>
+</ul>
+<h3>Gameplay</h3>
+<ul>
+<li>Siege rings of enemies appear at higher minutes.</li>
+<li>Upgrades are now per music type (strings, wind, percussion, voice, blades, bows, spells), each with damage and crit versions.</li>
+<li>Fusions stay secret until you make one yourself.</li>
+<li>Blades unlock with Kage. Bows and spells are reserved for later companions.</li>
+<li>The first level-up always offers at least two weapons.</li>
+<li>Harp of Lines now bursts on the ground. The Ballad aura flows outward in waves.</li>
+<li>Chests no longer drop duplicate gear.</li>
+<li>New <strong>Lone Wolf</strong> trait: walk alone (with a companion available) for +20 max health.</li>
+<li>Every biome has its own breakable: snowman, beehive, stump and burial urn.</li>
+<li>New pet: <strong>Ajax the Shiba Inu</strong>. Pet unlocks no longer pop up the instant a run starts.</li>
+<li>The Crescendo&#x27;s shield is now violet and can overlap the power-up shield.</li>
+</ul>
+<h3>Balance</h3>
+<ul>
+<li>Kage hits less often and for less.</li>
+<li>Staccato shows a red lane before it dashes, and dashes farther.</li>
+<li>The Drum Lord now lunges (with a red warning lane) if you kite it.</li>
+<li>Unlock gates count deaths, not runs, so quitting early can&#x27;t skip them.</li>
+<li>Companion camps only appear after their College is already open, 3 to 5 minutes into a run.</li>
+<li>Quest finds (Stone, College, camp, harp) are placed deeper inside biomes.</li>
+<li>Snare is a touch quieter on every song.</li>
+</ul>
+<h3>Quality of life</h3>
+<ul>
+<li>Every menu works with arrow keys, Enter/Space and Tab.</li>
+<li>Unlocks, Colleges, pets and foes pop up as achievement-style badges. Achievements are shown after a run.</li>
+<li>The death screen shows icons for damage, finds and achievements, with bigger buttons for touch.</li>
+<li>A red kick ring was recoloured so it no longer looks like damage.</li>
+<li>Touch players get the same pop-ups, hover cards (tap to read) and menus as everyone else.</li>
+<li>Menus share one look: matching headers, padding and fixed-size frames.</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li>Fixed tall props popping in at screen edges and a Collection hover jump.</li>
+<li>Fixed menu layouts shifting between tabs.</li>
+<li>Fixed Harp visuals showing before the harp was found.</li>
+<li>Fixed the Maestra&#x27;s hall roof drawing as a floating slab.</li>
+</ul></section>
+<footer><p>Alpha builds change fast. Thank you for playing and testing.</p></footer>
+</main></body></html>

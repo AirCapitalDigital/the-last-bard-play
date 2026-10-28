@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.4.2](patch_notes/v0.4.2-alpha.md): a fully grown Fountain now brings a much bigger horde.
 - [Alpha 0.4.1](patch_notes/v0.4.1-alpha.md): boss immunities and resistances, Revive first on the death screen, and fixes for stuck keys, switcher arrows and the death list.
 - [Alpha 0.4.0](patch_notes/v0.4.0-alpha.md): the Mirror (skin, hair, eyes, belt and hairstyle, with looks won by achievements), a Fountain that grows in front of you, a readable Crescendo button and low-health warning, and many fixes.
 - [Alpha 0.3.0](patch_notes/v0.3.0-alpha.md): Steam Deck support, tabbed settings, a six-stage Fountain, the Drunken Monkey, evolution flourishes, an icon for every piece of gear and a tougher late game.

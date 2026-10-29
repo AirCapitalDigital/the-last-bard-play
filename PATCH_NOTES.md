@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.4.4](patch_notes/v0.4.4-alpha.md): the Leaderboard opens (eight boards, headshots, weapon, boost and gear icons, device icons, podium stars), a Game stats tab, a title Discord button and Links, version names and a calmer floor glow.
 - [Alpha 0.4.3](patch_notes/v0.4.3-alpha.md): a Halloween camp, vanity items (Pumpkin Head), bard names and a coming-soon Leaderboard, a fuller pause-menu stat list, a tougher full Fountain, thinner late Echoes and a regen ceiling.
 - [Alpha 0.4.2](patch_notes/v0.4.2-alpha.md): a fully grown Fountain now brings a much bigger horde.
 - [Alpha 0.4.1](patch_notes/v0.4.1-alpha.md): boss immunities and resistances, Revive first on the death screen, and fixes for stuck keys, switcher arrows and the death list.

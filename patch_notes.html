@@ -20,6 +20,51 @@ code { background:#0e0d1a; border:1px solid var(--line); border-radius:4px; padd
 footer { color:var(--muted); font-size:14px; }
 </style></head><body><main>
 <header><h1>THE LAST BARD</h1><p>Patch notes, newest first. <a href="./">Back to the game</a></p></header>
+<section><h2 id="v0.4.7-alpha">The Last Bard: Alpha 0.4.7</h2>
+<p><em>The orchestra grows: 35 weapons, 70 fusions and 37 evolutions, each with its own look, plus the Banish and Lucky Draw Fountain upgrades.</em></p>
+<h3>New: weapons</h3>
+<ul>
+<li><strong>14 new weapons</strong>, so every family now has five. Strings: <strong>Hurdy-Gurdy, Kora, Sitar</strong>. Percussion: <strong>Gong, Taiko</strong>. Voice: <strong>Khoomei, Yodel, Soprano&#x27;s Shriek</strong>. Bows: <strong>Berimbau, Blowgun, Atlatl</strong>. Spells: <strong>Theremin, Glass Armonica, Rainstick</strong>. Earlier this version also came the <strong>Bagpipes, Ophicleide, Musical Saw, Glaive and Iaido</strong>.</li>
+<li><strong>Fusions: any two weapons of the SAME family, both at max level, fuse into one weapon in one slot.</strong> Both attacks are kept, with a small damage bonus and four extra levels (max 12). There are 70 fusions, each with its own name (Bass Lament, Highland Pipes, Grand Lyre, Marching Crash...).</li>
+<li><strong>Evolutions: two weapons of DIFFERENT families, both at max level, evolve into a brand new weapon.</strong> 37 of them, each with its own attack, picture and look: the Prism Harp splits fire into a rainbow star, the Anvil Chorus drops anvils, the Hydraulophone raises water jets, the Zeusaphone crackles with lightning, the Capoeira Roda circles you with dancers, Brass Bolts fires cymbals (and the Drunken Monkey throws a party for them too). Fusions and evolutions only come from chests.</li>
+<li><strong>Wild Magic really goes wild:</strong> spell hits have a small chance to set off a meteor, a frost nova, a lightning storm, a gale or a wildfire, announced with a pop-up.</li>
+<li>The older recipes (Volley, Cadence, Jingle Storm, Ballad of Blades, Songbird Arrows, Gale Force, Storm Choir, Ember Lullaby, Power Chord) are retired: you keep any you own.</li>
+</ul>
+<h3>New: cards and the Fountain</h3>
+<ul>
+<li><strong>Fountain upgrades:</strong> <strong>Banish</strong> (remove a card from every later offer for the rest of the run, with a big red X and an are-you-sure prompt), <strong>Lucky Draw</strong> (a chance at a fourth card), <strong>Companion Might, Stage Presence and Pet Whisperer</strong>. The upgrade texts now fit, with the full text on hover.</li>
+<li><strong>Fusion and evolution cards look the part:</strong> a welded blue frame for fusions, a prismatic frame with a starburst for evolutions, and the pick scene says FUSION or EVOLUTION. Fusion cards show the two weapons being joined and what they become.</li>
+<li><strong>Four cards fit on screen in one row</strong> (Lucky Draw used to wrap the fourth card and squash the scene).</li>
+<li><strong>Music-family glyphs</strong> on cards, the HUD, the pause menu and the Collection show each weapon&#x27;s family at a glance, with a green arrow on every &quot;+&quot; boost line. Boost cards show which of your weapons they help.</li>
+<li>The <strong>Unlocks page</strong> has Fusions and Evolutions sections (padlocks until found), named in their own colours on pop-ups, with a quiet card-style border on fused and evolved weapons in your HUD. Newly unlocked songs wear a NEW tag, and a newly earned College tower wears a &quot;!&quot;.</li>
+<li>Four new <strong>Crescendo types</strong> with rare, epic and legendary scores: Tidal, Stormcaller, Hourglass and Seeding Chorus.</li>
+<li>The Ice Burst power-up (the Freeze Bomb), shorter endless-card pop-ups, and a pause menu with tabs This Run, Monsters, Upgrades and Settings.</li>
+</ul>
+<h3>Changes</h3>
+<ul>
+<li><strong>Spawns are seen first.</strong> A foe that is still appearing cannot be hurt or targeted, and it takes 0.6 s to appear (it was 0.35 s), so the big rings and shapes are seen forming before your weapons clear them.</li>
+<li><strong>Enemy notes are easier to read:</strong> a dark halo behind each one, larger and drawn over your own effects, and your effects fade a little when the screen is crowded. A white flash and a quick fade show when the hit-immunity took a hit. Enemy projectiles hit 2% harder.</li>
+<li><strong>Lute Goblin:</strong> only in the meadow, scatters spiked traps while it is busy, and its Monsters page now tallies everything it has taken from you for good, with a remark.</li>
+<li><strong>Companions are easy to see:</strong> Kage&#x27;s streak and crescent, Rowan&#x27;s arrows and bow release, and Morwen&#x27;s rune bursts are bigger and brighter. Chilled turns the bard blue.</li>
+<li><strong>The Drum Lord is a little stronger</strong>, and bosses are kept apart from each other a little better.</li>
+<li><strong>Music-coloured notes:</strong> the bard&#x27;s beat notes and the ambient notes take the playing song&#x27;s colour, shape and tempo, and the camp harp sends a note up on every beat.</li>
+<li><strong>Biomes:</strong> snow has log cabins and new igloos, the Bone Cantor raises its skeletons behind you, and the Sand Burrower is easier to read.</li>
+<li><strong>Collection and menus:</strong> a comparison mark on gear and pets shows what is better, the Leaderboard has a Fountain filter and lists your longest-used gear, pet and companion.</li>
+<li>The goblin&#x27;s flaming daggers are smaller, with a lighter shadow. The cyan glow eyes now ask for 30 minutes in a run.</li>
+</ul>
+<h3>Controller and menus</h3>
+<ul>
+<li>Banish and Reroll sit side by side under the cards and can be reached with a controller; the Banish prompt keeps focus inside itself.</li>
+<li>The right stick scrolls the reading pane beside a grid or list, then moves on to the list once the pane ends.</li>
+<li>Flipping a tab leaves the tab bar highlighted, Left and Right can reach a control beside a row, and a stick held while a menu opens no longer moves its focus.</li>
+<li>Stray clicks right after the death screen or a Revive can no longer send you to camp, and R or Enter no longer skip an available Revive.</li>
+</ul>
+<h3>Fixes</h3>
+<ul>
+<li>A start-of-run freeze that came from the foes&#x27; first-appearance planning looping for ever on a rounding error is fixed. A freeze caused by the sound-app picker on a stuck sound server is also fixed, and a start-up that stays frozen now restarts itself.</li>
+<li>The companion offer&#x27;s &quot;keep&quot; card showed the wrong companion&#x27;s icon, and the pause menu always named Kage: both fixed.</li>
+<li>A mark on the Unlocks page that could never be cleared is gone, and the Leaderboard tab no longer says &quot;not connected&quot; on first open.</li>
+</ul></section>
 <section><h2 id="v0.4.6-alpha">The Last Bard: Alpha 0.4.6</h2>
 <p><em>Fire catches, hats cover heads, the camp learns to behave with a controller, and the new foes get their teeth.</em></p>
 <h3>New</h3>

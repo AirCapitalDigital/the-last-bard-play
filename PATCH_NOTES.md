@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.4.8](patch_notes/v0.4.8-alpha.md): an Echo Tree to find and grow, new desert, snow, forest and crypt foes, Wild Magic with real flames and lightning, three more Lute evolutions, blue strings for boosts that help every weapon, easier-to-find bosses, tougher late runs, and a what's new panel.
 - [Alpha 0.4.7](patch_notes/v0.4.7-alpha.md): 14 new weapons (35 in all), 70 fusions and 37 evolutions each with their own look, Banish and Lucky Draw, four cards on screen, Wild Magic that goes wild, spawns you see first, a Lute Goblin that keeps score, and many controller and freeze fixes.
 - [Alpha 0.4.6](patch_notes/v0.4.6-alpha.md): foes that catch fire, hats that cover hair, card stacks in the chest opening, new menu and Crescendo sounds, arrows for every note trail, a Lute Goblin that is easier to catch, readable biome foes, fewer meadow villages, and a long list of controller and menu fixes.
 - [Alpha 0.4.5](patch_notes/v0.4.5-alpha.md): the desert biome (the Parched Reach), igloos, new biome foes (the Lute Goblin thief, wolves, scarecrows, choristers, cantors, burrowers), the Wailer choir, a choice when every card is taken (Loot Mode), power-up callouts, scarcer loot, tougher Staccatos and Behemoths, gentler talking wards, and a Crescendo that sounds like one.

@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.0](patch_notes/v0.5.0-alpha.md): the whole world, every foe and the bard redrawn in a storybook look, a new interface, hair styles and facial hair, 61 gear pieces in 19 sets, transmog, capes that are their own gauges, and a much faster late game.
 - [Alpha 0.4.8](patch_notes/v0.4.8-alpha.md): an Echo Tree to find and grow, new desert, snow, forest and crypt foes, Wild Magic with real flames and lightning, three more Lute evolutions, blue strings for boosts that help every weapon, easier-to-find bosses, tougher late runs, and a what's new panel.
 - [Alpha 0.4.7](patch_notes/v0.4.7-alpha.md): 14 new weapons (35 in all), 70 fusions and 37 evolutions each with their own look, Banish and Lucky Draw, four cards on screen, Wild Magic that goes wild, spawns you see first, a Lute Goblin that keeps score, and many controller and freeze fixes.
 - [Alpha 0.4.6](patch_notes/v0.4.6-alpha.md): foes that catch fire, hats that cover hair, card stacks in the chest opening, new menu and Crescendo sounds, arrows for every note trail, a Lute Goblin that is easier to catch, readable biome foes, fewer meadow villages, and a long list of controller and menu fixes.

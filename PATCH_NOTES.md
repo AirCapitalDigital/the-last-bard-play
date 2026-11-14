@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.1](patch_notes/v0.5.1-alpha.md): a rebuilt Sanctuary that grows from a ruin into a college town, a campfire title screen that follows the seasons with new music, all 35 weapons hitting harder in their family colours, the Bagpipes redone, eight new boosts, three new Lute evolutions, death animations and phone layouts that fit.
 - [Alpha 0.5.0](patch_notes/v0.5.0-alpha.md): the whole world, every foe and the bard redrawn in a storybook look, a new interface, hair styles and facial hair, 61 gear pieces in 19 sets, transmog, capes that are their own gauges, and a much faster late game.
 - [Alpha 0.4.8](patch_notes/v0.4.8-alpha.md): an Echo Tree to find and grow, new desert, snow, forest and crypt foes, Wild Magic with real flames and lightning, three more Lute evolutions, blue strings for boosts that help every weapon, easier-to-find bosses, tougher late runs, and a what's new panel.
 - [Alpha 0.4.7](patch_notes/v0.4.7-alpha.md): 14 new weapons (35 in all), 70 fusions and 37 evolutions each with their own look, Banish and Lucky Draw, four cards on screen, Wild Magic that goes wild, spawns you see first, a Lute Goblin that keeps score, and many controller and freeze fixes.

@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.3](patch_notes/v0.5.3-alpha.md): enemy shots redrawn with a rose rim and a shape for each foe, colour-blind modes and a brightness slider, a camp note trail that leads to the Echo Tree first, a headgear switch in the pause menu, a clearer screen late in a run, and accurate weapon cards.
 - [Alpha 0.5.2](patch_notes/v0.5.2-alpha.md): gilded cards, new chests and power-ups, every icon and all 43 evolutions redrawn, storybook pets, relics that float round the bard, an Echo Tree that grows into a willow, an Armory that wears your gear, and a phone pause menu that keeps out of the way.
 - [Alpha 0.5.1](patch_notes/v0.5.1-alpha.md): a rebuilt Sanctuary that grows from a ruin into a college town, a campfire title screen that follows the seasons with new music, all 35 weapons hitting harder in their family colours, the Bagpipes redone, eight new boosts, three new Lute evolutions, death animations and phone layouts that fit.
 - [Alpha 0.5.0](patch_notes/v0.5.0-alpha.md): the whole world, every foe and the bard redrawn in a storybook look, a new interface, hair styles and facial hair, 61 gear pieces in 19 sets, transmog, capes that are their own gauges, and a much faster late game.

@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.6.0](patch_notes/v0.5.6.0-alpha.md): a bard who faces sixteen ways and walks at your stick's true angle, smoother keyboard walking, an arrow for every chest, a fuller late game with fewer stray shots, seventeen evolutions with bigger attacks, and fusions that are never weaker than their parts.
 - [Alpha 0.5.5](patch_notes/v0.5.5-alpha.md): runs that can start in any of the five lands after your first five, Pip in any village or camp, a Banish that swaps only one card, a Sun Burst that clears enemy shots, an icy health bar when chilled, MAX on every maxed tile, a tidier death screen and easier phone callouts.
 - [Alpha 0.5.4](patch_notes/v0.5.4-alpha.md): titles to win with achievements and leaderboard top 3s and wear beside your name, a Mirror that lets you try on anything locked, six new hats (two for the Winter Festival), achievement rewards in the Journal, and foes that show what they shoot.
 - [Alpha 0.5.3](patch_notes/v0.5.3-alpha.md): enemy shots redrawn with a rose rim and a shape for each foe, colour-blind modes and a brightness slider, a camp note trail that leads to the Echo Tree first, a headgear switch in the pause menu, a clearer screen late in a run, and accurate weapon cards.

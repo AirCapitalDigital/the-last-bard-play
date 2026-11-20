@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.7.1](patch_notes/v0.5.7.1-alpha.md): a few rare pieces can be changed right from the loadout.
 - [Alpha 0.5.7.0](patch_notes/v0.5.7.0-alpha.md) "Second Wind": new surprises at the far end of a long run, and a steadier gear menu.
 - [Alpha 0.5.6.6](patch_notes/v0.5.6.6-alpha.md): more detail on the death screen about the end of a long run, and a Ballad fix.
 - [Alpha 0.5.6.5](patch_notes/v0.5.6.5-alpha.md): Lute Goblins always give stolen chests back, Crescendo Scores drop more, a cheaper Booster Pack, a quieter Rally Horn and a shorter late-game fight.

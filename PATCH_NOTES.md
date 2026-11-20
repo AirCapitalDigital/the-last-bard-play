@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.6.2](patch_notes/v0.5.6.2-alpha.md): golden Echo Chests that pay up to 200 Echoes, three new Fountain upgrades (Echo Hunter, Skip, Booster Pack), ground attacks drawn under your foes, and an arrow on every chest.
 - [Alpha 0.5.6.1](patch_notes/v0.5.6.1-alpha.md): each weapon now feeds only one fusion or evolution a run, and a fused starting weapon stays in your bard's hand.
 - [Alpha 0.5.6.0](patch_notes/v0.5.6.0-alpha.md): a bard who faces sixteen ways and walks at your stick's true angle, smoother keyboard walking, an arrow for every chest, a fuller late game with fewer stray shots, seventeen evolutions with bigger attacks, and fusions that are never weaker than their parts.
 - [Alpha 0.5.5](patch_notes/v0.5.5-alpha.md): runs that can start in any of the five lands after your first five, Pip in any village or camp, a Banish that swaps only one card, a Sun Burst that clears enemy shots, an icy health bar when chilled, MAX on every maxed tile, a tidier death screen and easier phone callouts.

@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.6.5](patch_notes/v0.5.6.5-alpha.md): Lute Goblins always give stolen chests back, Crescendo Scores drop more, a cheaper Booster Pack, a quieter Rally Horn and a shorter late-game fight.
 - [Alpha 0.5.6.4](patch_notes/v0.5.6.4-alpha.md): look at a gift before you keep it (with a Back button), and a Trade All button that hands everything over at once.
 - [Alpha 0.5.6.3](patch_notes/v0.5.6.3-alpha.md): a late-run scene that ignored taps on phones now moves on, and one of the longest late-game fights is a little shorter.
 - [Alpha 0.5.6.2](patch_notes/v0.5.6.2-alpha.md): golden Echo Chests that pay up to 200 Echoes, three new Fountain upgrades (Echo Hunter, Skip, Booster Pack), ground attacks drawn under your foes, and an arrow on every chest.

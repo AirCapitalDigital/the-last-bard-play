@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.7.2](patch_notes/v0.5.7.2-alpha.md): every fall counts on Most deaths, and the playtime board says it counts ranked runs only.
 - [Alpha 0.5.7.1](patch_notes/v0.5.7.1-alpha.md): a few rare pieces can be changed right from the loadout.
 - [Alpha 0.5.7.0](patch_notes/v0.5.7.0-alpha.md) "Second Wind": new surprises at the far end of a long run, and a steadier gear menu.
 - [Alpha 0.5.6.6](patch_notes/v0.5.6.6-alpha.md): more detail on the death screen about the end of a long run, and a Ballad fix.

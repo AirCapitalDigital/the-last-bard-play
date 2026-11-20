@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.6.6](patch_notes/v0.5.6.6-alpha.md): more detail on the death screen about the end of a long run, and a Ballad fix.
 - [Alpha 0.5.6.5](patch_notes/v0.5.6.5-alpha.md): Lute Goblins always give stolen chests back, Crescendo Scores drop more, a cheaper Booster Pack, a quieter Rally Horn and a shorter late-game fight.
 - [Alpha 0.5.6.4](patch_notes/v0.5.6.4-alpha.md): look at a gift before you keep it (with a Back button), and a Trade All button that hands everything over at once.
 - [Alpha 0.5.6.3](patch_notes/v0.5.6.3-alpha.md): a late-run scene that ignored taps on phones now moves on, and one of the longest late-game fights is a little shorter.

@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.8.0](patch_notes/v0.5.8.0-alpha.md) "The Hunt": Andy the Beastbreaker, a slayer-master with hunts that pay Marks, ten hunter ranks, War Paint, five new weapons and four new boosts, and 72 trophies to wear in four new vanity slots.
 - [Alpha 0.5.7.3](patch_notes/v0.5.7.3-alpha.md): a new pet, Doug the Goose, and a grander Leaderboard in the camp.
 - [Alpha 0.5.7.2](patch_notes/v0.5.7.2-alpha.md): every fall counts on Most deaths, and the playtime board says it counts ranked runs only.
 - [Alpha 0.5.7.1](patch_notes/v0.5.7.1-alpha.md): a few rare pieces can be changed right from the loadout.

@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.10.1](patch_notes/v0.5.10.1-alpha.md): developer controls are no longer in the menus, as the game gets ready for the stores.
 - [Alpha 0.5.10.0](patch_notes/v0.5.10.0-alpha.md) "Struck Gold": Echo Events (geysers, wellsprings, singing geodes and falling stars full of Echoes) with far bigger jackpots, the rare Echo Comet, the Echo Rain power-up, a three-step War Paint menu, and fuller Game stats.
 - [Alpha 0.5.9.1](patch_notes/v0.5.9.1-alpha.md): new ground effects for twelve weapons, three spells for Morwen, and a setting for which keys pick a level-up card.
 - [Alpha 0.5.9.0](patch_notes/v0.5.9.0-alpha.md) "Clear Picks": new card designs for every kind of card, a level-up screen that clearly shows the game is paused, a How It Works guide on your first run, and new weapons that show themselves when picked.

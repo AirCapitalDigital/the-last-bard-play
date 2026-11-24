@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.12.4](patch_notes/v0.5.12.4-alpha.md): tap anywhere on a highlighted place to use it, and its button always stays on screen.
 - [Alpha 0.5.12.3](patch_notes/v0.5.12.3-alpha.md): Ember Island's ground shows again on phones and in the browser.
 - [Alpha 0.5.12.2](patch_notes/v0.5.12.2-alpha.md): Most bosses counts every boss felled, a fairer Longest run, the Crucible offers only weapons you have earned, the Cape of Embers burns roots, Andy calls you by your rank; vanity cape and Sapling Pack fixes.
 - [Alpha 0.5.12.1](patch_notes/v0.5.12.1-alpha.md) "The Crucible Opens": the Crucible is open (63 waves to Tharrun, the Oldest Note, with Ember weapons, a reward every wave and the mountain's trials), the Crescendo of Embers, the Ember skin everywhere, 28 achievements with flaming titles, three pets; Ember Island works like the Sanctuary, livelier companions and full biome names.

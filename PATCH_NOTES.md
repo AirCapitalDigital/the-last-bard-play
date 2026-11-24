@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.12.6](patch_notes/v0.5.12.6-alpha.md): your best Crucible wave survives a restart, the Crucible's pets are earned only there, a Power-ups page in the Journal, both trio forms in the Collection, a stronger Phantom Meowstro.
 - [Alpha 0.5.12.5](patch_notes/v0.5.12.5-alpha.md): Ember Island's lava flows and chasm show again on phones and in the browser.
 - [Alpha 0.5.12.4](patch_notes/v0.5.12.4-alpha.md): tap anywhere on a highlighted place to use it, and its button always stays on screen.
 - [Alpha 0.5.12.3](patch_notes/v0.5.12.3-alpha.md): Ember Island's ground shows again on phones and in the browser.

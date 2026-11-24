@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.12.12](patch_notes/v0.5.12.12-alpha.md): one wave-end banner, sharper floors on phones, no more foes stuck on pillars.
 - [Alpha 0.5.12.11](patch_notes/v0.5.12.11-alpha.md): Crucible creature variations, new reward chests, the lava gulper, a walk to the pedestal.
 - [Alpha 0.5.12.10](patch_notes/v0.5.12.10-alpha.md): an all-new Crucible bestiary and champions, a pedestal start, one card per Cards reward.
 - [Alpha 0.5.12.9](patch_notes/v0.5.12.9-alpha.md): the Crucible's reward chest, Ember-forged foes, lava rocks and burning.

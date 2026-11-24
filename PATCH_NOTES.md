@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.12.0](patch_notes/v0.5.12.0-alpha.md) "Ember Island": Jad sails into the Sanctuary once the three mini bosses have fallen and takes you to Ember Island, a volcanic island to explore; eight new songs; every power-up in the Journal.
 - [Alpha 0.5.11.0](patch_notes/v0.5.11.0-alpha.md) "First Verses": First Verses (small goals that teach the game and pay Echoes, a full set of common gear, two new pets), a welcome for new bards with gentler first minutes and tips, ten new Crescendos with no more tiers, Maestra's lessons, and three save slots.
 - [Alpha 0.5.10.1](patch_notes/v0.5.10.1-alpha.md): developer controls are no longer in the menus, as the game gets ready for the stores.
 - [Alpha 0.5.10.0](patch_notes/v0.5.10.0-alpha.md) "Struck Gold": Echo Events (geysers, wellsprings, singing geodes and falling stars full of Echoes) with far bigger jackpots, the rare Echo Comet, the Echo Rain power-up, a three-step War Paint menu, and fuller Game stats.

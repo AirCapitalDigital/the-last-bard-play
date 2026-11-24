@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.12.9](patch_notes/v0.5.12.9-alpha.md): the Crucible's reward chest, Ember-forged foes, lava rocks and burning.
 - [Alpha 0.5.12.8](patch_notes/v0.5.12.8-alpha.md): taps on highlighted places work on phones, a safer way into the Crucible, its entrance keeps its secrets.
 - [Alpha 0.5.12.7](patch_notes/v0.5.12.7-alpha.md): the Wind Harp on Ember Island's beach lets you pick the island's song.
 - [Alpha 0.5.12.6](patch_notes/v0.5.12.6-alpha.md): your best Crucible wave survives a restart, the Crucible's pets are earned only there, a Power-ups page in the Journal, both trio forms in the Collection, a stronger Phantom Meowstro.

@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.13.2](patch_notes/v0.5.13.2-alpha.md): white-blue attacks in the Crucible; fairer lava pools.
 - [Alpha 0.5.13.1](patch_notes/v0.5.13.1-alpha.md): foes left, climb time and boss names in the Crucible; clearer conduits, pylons and charges.
 - [Alpha 0.5.13.0 "The Hunt Evolves"](patch_notes/v0.5.13.0-alpha.md): 22 evolutions for the hunter weapons (ten for the Slayer's Horn), and the Crucible's own creatures.
 - [Alpha 0.5.12.13](patch_notes/v0.5.12.13-alpha.md): fewer callouts in the Crucible.

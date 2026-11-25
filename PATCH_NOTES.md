@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.13.5](patch_notes/v0.5.13.5-alpha.md): pausing in the Crucible no longer stores up lava rocks and foes.
 - [Alpha 0.5.13.4](patch_notes/v0.5.13.4-alpha.md): a livelier Ember Island, Jad's Harp, the Tally Stone, skip the Crucible's rules.
 - [Alpha 0.5.13.3](patch_notes/v0.5.13.3-alpha.md): seamless songs and crossfades, Tharrun in the Journal, island zoom and scenery, a base-weapon Crucible.
 - [Alpha 0.5.13.2](patch_notes/v0.5.13.2-alpha.md): white-blue attacks in the Crucible; fairer lava pools.

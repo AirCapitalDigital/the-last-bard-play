@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.14.5](patch_notes/v0.5.14.5-alpha.md): Blade Paint carries into fusions and evolutions.
 - [Alpha 0.5.14.4](patch_notes/v0.5.14.4-alpha.md): the Crescendo of Embers is mythic, with a ring of flame that burns up shots.
 - [Alpha 0.5.14.3](patch_notes/v0.5.14.3-alpha.md): Stalacpipe Organ redrawn, Ember skin is card art, Crucible runs off the run boards.
 - [Alpha 0.5.14.2](patch_notes/v0.5.14.2-alpha.md): Tharrun reworked, nine new songs, song shuffle, skip and curation, analog stick speed.

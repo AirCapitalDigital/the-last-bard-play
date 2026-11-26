@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.14.3](patch_notes/v0.5.14.3-alpha.md): Stalacpipe Organ redrawn, Ember skin is card art, Crucible runs off the run boards.
 - [Alpha 0.5.14.2](patch_notes/v0.5.14.2-alpha.md): Tharrun reworked, nine new songs, song shuffle, skip and curation, analog stick speed.
 - [Alpha 0.5.14.1](patch_notes/v0.5.14.1-alpha.md): Favoured Tune, boss names, safe dialogue, a stronger Cape of Embers, gentler roots and quieter wolves.
 - [Alpha 0.5.14.0 "Forged in Fire"](patch_notes/v0.5.14.0-alpha.md): three Crucible gear sets, Tharrun's victory dais and exit beacon, the Pyre Warden's halberd, the Obsidian Halo.

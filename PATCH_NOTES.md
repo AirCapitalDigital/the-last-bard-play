@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.15.0 "The Sleepers Wake"](patch_notes/v0.5.15.0-alpha.md): the Challenger's War Horn and five biome challengers, Crucible Records, phone control settings.
 - [Alpha 0.5.14.6](patch_notes/v0.5.14.6-alpha.md): the starting-weapon task completes at once.
 - [Alpha 0.5.14.5](patch_notes/v0.5.14.5-alpha.md): Blade Paint carries into fusions and evolutions.
 - [Alpha 0.5.14.4](patch_notes/v0.5.14.4-alpha.md): the Crescendo of Embers is mythic, with a ring of flame that burns up shots.

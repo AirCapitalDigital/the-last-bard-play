@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.17.1](patch_notes/v0.5.17.1-alpha.md): Practice Yard spectators, far more seasonal decoration.
 - [Alpha 0.5.17.0 "The Practice Yard Opens Up"](patch_notes/v0.5.17.0-alpha.md): a real testing ground, honest chest cards, the Stone and Harp arrive, tasks in camp.
 - [Alpha 0.5.16.0 "Every Weapon Its Own Song"](patch_notes/v0.5.16.0-alpha.md): every weapon reworked, the Practice Yard, a damage meter.
 - [Alpha 0.5.15.0 "The Sleepers Wake"](patch_notes/v0.5.15.0-alpha.md): the Challenger's War Horn and five biome challengers, Crucible Records, phone control settings.

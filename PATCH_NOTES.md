@@ -2,6 +2,7 @@
 
 Newest first. Each release also has its own file in `docs/patch_notes/`.
 
+- [Alpha 0.5.17.4](patch_notes/v0.5.17.4-alpha.md): challenges ask first, a tournament Practice Yard, the Tally Stone holds the fastest clears.
 - [Alpha 0.5.17.3](patch_notes/v0.5.17.3-alpha.md): a snowy Winter Festival, smashable presents and pumpkins.
 - [Alpha 0.5.17.2](patch_notes/v0.5.17.2-alpha.md): spectators talk in the same floating words as Spek.
 - [Alpha 0.5.17.1](patch_notes/v0.5.17.1-alpha.md): Practice Yard spectators, far more seasonal decoration.
